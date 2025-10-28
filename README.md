@@ -10,17 +10,15 @@ The solutions to the tasks given in the form for the role of **Backend Inter**n 
 Add endpoint /api/students/adults/ returning students aged > 18. 
 ## Setup Instructions
 
-1. **Clone the Repository**
+1. **Clone the Repository and Run task 1**
     ```
     git clone <https://github.com/chandemoniumm/arkaenergytask>
     python3 TASK1.py
-    cd TASK2
     ```
 
-2. **(Optional but Recommended) Create and Activate a Virtual Environment**
+2. **Change directory**
     ```
-    python3 -m venv env
-    source env/bin/activate
+     cd TASK2
     ```
 
 3. **Install Requirements**
