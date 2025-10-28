@@ -5,6 +5,8 @@ The solutions to the tasks given in the form for the role of **Backend Inter**n 
 **TASK1.py** - Write a Python function that takes a list of user dictionaries (name, age) and returns a list of names of users older than 18.
 ## TASK 2
 **TASK2** - Build a Django project with an app named 'students' having model Student (name, age, email) and API endpoint /api/students/ supporting GET and POST methods. 
+## BONUS TASK
+Add endpoint /api/students/adults/ returning students aged > 18. 
 ## Setup Instructions
 
 1. **Clone the Repository**
