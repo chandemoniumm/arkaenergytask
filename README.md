@@ -40,7 +40,7 @@ Add endpoint /api/students/adults/ returning students aged > 18.
 
 ### Add a Student
 
-**POST**  http://127.0.0.1:8000/
+**POST**  http://127.0.0.1:8000/api/students/
 
 *Body (JSON):*
 ```
@@ -53,9 +53,9 @@ Add endpoint /api/students/adults/ returning students aged > 18.
 
 ### List All Students
 
-**GET** http://127.0.0.1:8000/
+**GET** http://127.0.0.1:8000/api/students/
 
 ### List Adult Students (Bonus)
 
-**GET**  http://127.0.0.1:8000/adults 
+**GET**  http://127.0.0.1:8000/api/students/adults
 Returns all students with `age > 18`.
