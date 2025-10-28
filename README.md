@@ -13,6 +13,7 @@ Add endpoint /api/students/adults/ returning students aged > 18.
 1. **Clone the Repository**
     ```
     git clone <https://github.com/chandemoniumm/arkaenergytask>
+    python3 TASK1.py
     cd TASK2
     ```
 
